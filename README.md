@@ -7,6 +7,18 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Resources
+[GraphQL](https://www.apollographql.com/docs/enterprise-guide/introduction/)
+
+[Vue Apollo](https://apollo.vuejs.org/)
+
+[Tailwind CSS](https://v1.tailwindcss.com/)
+
+[Lighthouse](https://lighthouse-php.com/)
+
+## After starting the project, the following urls can be accessed for the graphql playground:
+- http://localhost:8000/graphiql
+- http://127.0.0.1:8000/graphql-playground
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
